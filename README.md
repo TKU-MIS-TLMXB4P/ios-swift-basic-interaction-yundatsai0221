@@ -2,5 +2,5 @@
 Creating basic interaction
 
 ## Dismissing the keyboard with delegation
-![simulator screen shot nov 3 2015 8 55 41 pm](https://cloud.githubusercontent.com/assets/414554/10908515/571c453e-826d-11e5-853f-82d78506095e.png)
+![simulator screen shot 2015 11 3 9 06 32](https://cloud.githubusercontent.com/assets/13535052/10908743/e1ed61e2-826e-11e5-8625-ad007a6874b5.png)
 
